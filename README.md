@@ -15,7 +15,6 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           </div>
     </div>
     <div align= "center">
@@ -26,7 +25,6 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-username=SouthYun&layout=compact&bg_color=180,7ea089,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
