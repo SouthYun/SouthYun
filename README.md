@@ -26,7 +26,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouthYun&layout=compact&bg_color=180,7ea089,00000000&title_color=000000&text_color=000000"
+username=SouthYun&layout=compact&bg_color=180,7ea089,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
